@@ -1,0 +1,19 @@
+{
+  "name": "castreferenceplayer",
+  "version": "1.0.0",
+  "description": "This sample shows how to develop a fully Cast Design Checklist compliant receiver.",
+  "main": "player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozecuervo/CastReferencePlayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jozecuervo/CastReferencePlayer/issues"
+  },
+  "homepage": "https://github.com/jozecuervo/CastReferencePlayer#readme"
+}
